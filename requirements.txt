@@ -1,2 +1,2 @@
 streamlit
-https://github.com/streamlit/gsheets-connectionpandas
+streamlit_gsheets
